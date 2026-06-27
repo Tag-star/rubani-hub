@@ -50,9 +50,9 @@ export default function Navbar() {
                 src="/logo.jpeg"
                 alt="Rubani Hub — Aviation Training Kenya"
                 style={{
-                  height: scrolled ? "48px" : "60px",
+                  height: scrolled ? "64px" : "90px",
                   width: "auto",
-                  maxWidth: "160px",
+                  maxWidth: "220px",
                   objectFit: "contain",
                   transition: "height 0.3s ease",
                 }}
@@ -150,7 +150,7 @@ export default function Navbar() {
               </Link>
             </motion.div>
             <div className="mt-auto mb-10 text-white/40 font-inter text-sm">
-              rubanihub254@gmail.com · +254 704 832 506
+              rubanihub@gmail.com · +254 704 832 506
             </div>
           </motion.div>
         )}
