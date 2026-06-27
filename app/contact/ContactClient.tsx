@@ -252,7 +252,7 @@ export default function ContactClient() {
             className="font-inter text-white/70 text-lg max-w-xl mx-auto"
           >
             Ready to take flight? Fill in the form below or reach us directly on
-            WhatsApp — our team typically responds within a few hours.
+            WhatsApp, our team typically responds within a few hours.
           </motion.p>
         </div>
       </section>
