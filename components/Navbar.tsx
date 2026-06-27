@@ -5,7 +5,6 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { motion, AnimatePresence } from "framer-motion";
 import { FiMenu, FiX } from "react-icons/fi";
-import Image from "next/image";
 
 const navLinks = [
   { href: "/", label: "Home" },
@@ -47,15 +46,17 @@ export default function Navbar() {
 
             {/* Logo */}
             <Link href="/" className="flex items-center group">
-              <div className={`relative transition-all duration-300 ${scrolled ? "h-38 w-68" : "h-44 w-62"}`}>
-                <Image
-                  src="/logo.jpeg"
-                  alt="Rubani Hub — Aviation Training Kenya"
-                  fill
-                  className="object-contain object-left"
-                  priority
-                />
-              </div>
+              <img
+                src="/logo.jpeg"
+                alt="Rubani Hub — Aviation Training Kenya"
+                style={{
+                  height: scrolled ? "48px" : "60px",
+                  width: "auto",
+                  maxWidth: "160px",
+                  objectFit: "contain",
+                  transition: "height 0.3s ease",
+                }}
+              />
             </Link>
 
             {/* Desktop Nav */}
@@ -108,12 +109,11 @@ export default function Navbar() {
             className="fixed top-0 left-0 right-0 bottom-0 z-40 bg-brand-navy flex flex-col pt-24 px-6"
           >
             {/* Mobile logo */}
-            <div className="absolute top-5 left-4 h-12 w-28 relative">
-              <Image
+            <div className="absolute top-4 left-4">
+              <img
                 src="/logo.jpeg"
                 alt="Rubani Hub"
-                fill
-                className="object-contain object-left"
+                style={{ height: "48px", width: "auto", objectFit: "contain" }}
               />
             </div>
 
@@ -150,7 +150,7 @@ export default function Navbar() {
               </Link>
             </motion.div>
             <div className="mt-auto mb-10 text-white/40 font-inter text-sm">
-              rubanihub@gmail.com · +254 724 852 457
+              rubanihub254@gmail.com · +254 704 832 506
             </div>
           </motion.div>
         )}
