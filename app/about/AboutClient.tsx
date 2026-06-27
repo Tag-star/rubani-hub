@@ -164,7 +164,7 @@ export default function AboutClient() {
                   Start Your Journey
                 </Link>
                 <Link
-                  href="https://wa.me/254704832506"
+                  href="https://wa.me/254724852457"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-2 border-2 border-brand-green text-brand-green hover:bg-brand-green hover:text-white font-montserrat font-bold text-sm px-7 py-3.5 rounded-xl transition-all duration-300"
