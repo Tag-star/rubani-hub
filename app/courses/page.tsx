@@ -4,7 +4,7 @@ import CoursesClient from "./CoursesClient";
 export const metadata: Metadata = {
   title: "Courses & Services",
   description:
-    "Explore all aviation courses and services at Rubani Hub — PPL ground school, CPL ground school, helicopter training, simulator sessions, 1-on-1 mentorship, and more. Kenya's most comprehensive pilot training hub.",
+    "Explore all aviation courses and services at Rubani Hub: PPL ground school, CPL ground school, helicopter training, simulator sessions, 1-on-1 mentorship, and more. Kenya's most comprehensive pilot training hub.",
   keywords: [
     "PPL ground school Kenya",
     "CPL ground school Nairobi",
