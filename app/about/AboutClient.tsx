@@ -27,12 +27,12 @@ const values = [
   {
     icon: MdGroups,
     title: "Community & Belonging",
-    body: "Aviation is better together. We cultivate a community where students support each other, share knowledge, and celebrate each other's milestones — because the journey to the cockpit is always easier with the right people beside you.",
+    body: "Aviation is better together. We cultivate a community where students support each other, share knowledge, and celebrate each other's milestones because the journey to the cockpit is always easier with the right people beside you.",
   },
   {
     icon: MdFavorite,
     title: "Passion for Africa's Skies",
-    body: "Africa is one of the world's fastest-growing aviation markets, yet African pilots remain underrepresented in its cockpits. We exist to change that — with urgency, pride, and unwavering dedication.",
+    body: "Africa is one of the world's fastest-growing aviation markets, yet African pilots remain underrepresented in its cockpits. We exist to change that with urgency, pride, and unwavering dedication.",
   },
 ];
 
@@ -152,8 +152,8 @@ export default function AboutClient() {
                   was born from that conviction.
                 </p>
                 <p>
-                  Today, we&apos;ve helped over 100 students navigate the path
-                  from curiosity to cockpit — and we&apos;re only getting started.
+                  Today, we have helped over 100 students navigate the path
+                  from curiosity to cockpit, and we're only getting started.
                 </p>
               </div>
               <div className="mt-8 flex gap-4">
@@ -196,8 +196,8 @@ export default function AboutClient() {
               </h2>
               <p className="font-inter text-gray-600 leading-relaxed">
                 To democratise aviation education and mentorship in Kenya and
-                Africa — providing every aspiring pilot with structured training,
-                expert guidance, and community support to earn their licence and
+                Africa providing every aspiring pilot with structured training,
+                expert guidance and community support to earn their licence and
                 build a successful aviation career, regardless of background.
               </p>
             </motion.div>
@@ -218,7 +218,7 @@ export default function AboutClient() {
                 </h2>
                 <p className="font-inter text-white/70 leading-relaxed">
                   A future where African pilots command the aircraft that fly
-                  over African skies — where the aviation industry reflects the
+                  over African skies, where the aviation industry reflects the
                   continent it serves, and where a young Kenyan who dreams of
                   flying has every tool and mentor they need.
                 </p>
