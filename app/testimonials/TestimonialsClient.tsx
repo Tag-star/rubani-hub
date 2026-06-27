@@ -12,7 +12,7 @@ const testimonials = [
     course: "PPL Ground School",
     initials: "BO",
     quote:
-      "Rubani Hub completely changed my perspective on aviation. I was lost about how to start, and within three months I had a clear pathway and was already deep into my PPL theory. The instructors are genuinely invested in your success — they remember your name, your challenges, and your goals. I can't recommend this place highly enough.",
+      "Rubani Hub completely changed my perspective on aviation. I was lost about how to start, and within three months, I had a clear pathway and was already deep into my PPL theory. The instructors are genuinely invested in your success they remember your name, your challenges, and your goals. I can't recommend this place highly enough.",
     rating: 5,
   },
   {
@@ -20,7 +20,7 @@ const testimonials = [
     course: "1-on-1 Pilot Mentorship",
     initials: "AW",
     quote:
-      "The personalised mentorship I received here was unlike anything I'd experienced elsewhere. My mentor — a licensed CPL holder — helped me understand the real cost of training, where to find scholarships, and how to structure my studies for maximum efficiency. I felt like I finally had someone fighting in my corner. Aviation no longer felt impossible.",
+      "The personalised mentorship I received here was unlike anything I'd experienced elsewhere. I felt like I finally had someone fighting in my corner. Aviation no longer felt impossible.",
     rating: 5,
   },
   {
@@ -28,7 +28,7 @@ const testimonials = [
     course: "CPL Ground School",
     initials: "KM",
     quote:
-      "I came to Rubani Hub after struggling with self-study for over a year. I'd buy books, watch YouTube videos, but nothing clicked. The structured CPL ground school content here — combined with the instructor's clarity and patience — made all the difference. I passed my KCAA meteorology and navigation exams on first attempt. First attempt!",
+      "I came to Rubani Hub after struggling with self-study for over a year. I'd buy books, watch YouTube videos, but nothing clicked. The structured CPL ground school content here, combined with the instructor's clarity and patience, made all the difference. I passed my KCAA meteorology and navigation exams on my first attempt. First attempt!",
     rating: 5,
   },
   {
@@ -36,7 +36,7 @@ const testimonials = [
     course: "Career Guidance",
     initials: "FA",
     quote:
-      "I had my frozen ATPL and zero idea how to convert that into an actual airline job. Rubani Hub's career guidance team walked me through the entire airline application process — from type rating planning to how to structure my CV and what panel interviewers at Kenyan carriers actually want to hear. I'm now at a final stage interview with a regional airline. Grateful doesn't cover it.",
+      "I had my frozen ATPL and zero idea how to convert that into an actual airline job. Rubani Hub's career guidance team walked me through the entire airline application process, from type rating planning to how to structure my CV and what panel interviewers at Kenyan carriers actually want to hear. I'm now at a final stage interview with a regional airline. Grateful doesn't cover it.",
     rating: 5,
   },
   {
@@ -44,7 +44,7 @@ const testimonials = [
     course: "Simulator Training",
     initials: "DK",
     quote:
-      "The simulator sessions at Rubani Hub are incredibly well structured. I was nervous about instrument flying, but after just four sessions I was far more confident with my scan, my radio calls, and my approach procedures. The debrief after each session is genuinely one of the most valuable parts — honest, specific, and actionable feedback every single time.",
+      "The simulator sessions at Rubani Hub are incredibly well structured. I was nervous about instrument flying, but after just four sessions, I was far more confident with my scan, my radio calls, and my approach procedures. The debrief after each session is genuinely one of the most valuable parts, honest, specific, and actionable feedback every single time.",
     rating: 5,
   },
   {
@@ -52,7 +52,7 @@ const testimonials = [
     course: "Online Pilot Courses",
     initials: "GN",
     quote:
-      "As a working professional, I couldn't attend in-person classes. The online pilot courses from Rubani Hub were the perfect solution. The content is professionally produced, the live Q&A sessions with instructors fill in any gaps, and the online mock exams are surprisingly tough — which is exactly what you need to be ready for the real KCAA papers. I studied from home and still felt fully supported.",
+      "As a working professional, I couldn't attend in-person classes. The online pilot courses from Rubani Hub were the perfect solution. The content is professionally produced, the live Q&A sessions with instructors fill in any gaps, and the online mock exams are surprisingly tough, which is exactly what you need to be ready for the real KCAA papers. I studied from home and still felt fully supported.",
     rating: 5,
   },
 ];
