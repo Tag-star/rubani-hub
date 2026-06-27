@@ -87,7 +87,7 @@ const courses: Course[] = [
     slug: "online-courses",
     badge: "Study Anywhere",
     description:
-      "Geography should never be a barrier to becoming a pilot. Our fully online aviation courses are self-paced, instructor-supported, and aligned with KCAA standards — giving students across Africa access to world-class training from home.",
+      "Geography should never be a barrier to becoming a pilot. Our fully online aviation courses are self-paced, instructor-supported, and aligned with KCAA standards giving students across Africa access to world-class training from home.",
     details: [
       "Video-based lectures by licensed instructors",
       "Downloadable study materials & revision notes",
@@ -139,7 +139,7 @@ const courses: Course[] = [
     title: "Career Guidance for Aviation Students",
     slug: "career-guidance",
     description:
-      "Becoming a pilot is only the beginning. Our career advisory service helps you navigate the complex world of aviation employment — from understanding type rating requirements to identifying cadet programmes and negotiating your first airline contract.",
+      "Becoming a pilot is only the beginning. Our career advisory service helps you navigate the complex world of aviation employment from understanding type rating requirements to identifying cadet programmes and negotiating your first airline contract.",
     details: [
       "Airline cadet programme identification & application",
       "Type rating pathway planning",
@@ -156,7 +156,7 @@ const courses: Course[] = [
     title: "Airport Tours",
     slug: "airport-tours",
     description:
-      "Before you commit to a training pathway, experience aviation first-hand. Our guided airport tours take you airside — into the world of ATC, ground handling, engineering hangars, and live aircraft operations — giving you a real feel for the industry.",
+      "Before you commit to a training pathway, experience aviation first-hand. Our guided airport tours take you airside into the world of ATC, ground handling, engineering hangars, and live aircraft operations giving you a real feel for the industry.",
     details: [
       "Guided tours of active airport facilities",
       "ATC tower and operations centre visits",
@@ -235,7 +235,7 @@ export default function CoursesClient() {
             transition={{ duration: 0.6, delay: 0.3 }}
             className="font-inter text-white/70 text-lg max-w-2xl mx-auto"
           >
-            From zero to commercial pilot — every step of the journey, covered.
+            From zero to commercial pilot every step of the journey, covered.
             Explore our full range of aviation training programmes and support
             services.
           </motion.p>
@@ -342,7 +342,7 @@ export default function CoursesClient() {
               Not Sure Which Course Is Right for You?
             </h2>
             <p className="font-inter text-white/60 mb-8">
-              Talk to one of our aviation advisors today — for free. We'll help
+              Talk to one of our aviation advisors today for free. We'll help
               you map out the fastest and most affordable path to your pilot
               licence.
             </p>
