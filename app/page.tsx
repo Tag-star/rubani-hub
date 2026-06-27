@@ -422,21 +422,12 @@ export default function HomePage() {
               transition={{ duration: 0.7 }}
               className="relative"
             >
-              <div className="aspect-[4/5] rounded-3xl bg-gradient-to-br from-brand-navy to-brand-blue flex flex-col items-center justify-center relative overflow-hidden">
-                <div className="absolute inset-0 hero-grid opacity-30" />
-                <div className="relative z-10 text-center px-8">
-                  <div className="w-24 h-24 rounded-full bg-white/20 backdrop-blur-sm flex items-center justify-center mx-auto mb-4 border-2 border-white/30">
-                    <MdFlight className="text-white text-4xl" />
-                  </div>
-                  <p className="font-montserrat font-bold text-white text-lg">
-                    Founder Photo
-                  </p>
-                  <p className="font-inter text-white/50 text-sm mt-1">
-                    Image coming soon
-                  </p>
-                </div>
-                {/* Accent border */}
-                <div className="absolute bottom-0 left-0 right-0 h-1 bg-gradient-to-r from-brand-green via-brand-blue to-transparent" />
+            <div className="aspect-[4/5] rounded-3xl overflow-hidden">
+                <img
+                  src="/founder.jpeg"
+                  alt="Rubani Hub Founder"
+                  style={{ width: "100%", height: "100%", objectFit: "cover", display: "block" }}
+                />
               </div>
               {/* Floating badge */}
               <div className="absolute -bottom-4 -right-4 bg-brand-green text-white rounded-2xl px-5 py-3 shadow-xl">
