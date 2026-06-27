@@ -115,15 +115,11 @@ export default function AboutClient() {
               <div className="aspect-[4/5] rounded-3xl bg-gradient-to-br from-brand-navy to-brand-blue flex flex-col items-center justify-center relative overflow-hidden">
                 <div className="absolute inset-0 hero-grid opacity-20" />
                 <div className="relative z-10 text-center px-8">
-                  <div className="w-28 h-28 rounded-full bg-white/10 backdrop-blur-sm border-2 border-white/20 flex items-center justify-center mx-auto mb-5">
-                    <MdFlight className="text-white text-5xl" />
-                  </div>
-                  <p className="font-montserrat font-bold text-white text-xl mb-1">
-                    Founder Photo
-                  </p>
-                  <p className="font-inter text-white/50 text-sm">
-                    Image coming soon
-                  </p>
+                  <img
+                        src="/founder.jpeg"
+                        alt="Rubani Hub Founder"
+                        style={{ width:"100%", height:"100%", objectFit:"cover" }}
+                      />
                 </div>
                 <div className="absolute bottom-0 left-0 right-0 h-1.5 bg-gradient-to-r from-brand-green to-transparent" />
               </div>
