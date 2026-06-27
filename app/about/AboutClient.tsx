@@ -112,9 +112,7 @@ export default function AboutClient() {
               transition={{ duration: 0.7 }}
               className="relative order-2 lg:order-1"
             >
-              <div className="aspect-[4/5] rounded-3xl bg-gradient-to-br from-brand-navy to-brand-blue flex flex-col items-center justify-center relative overflow-hidden">
-                <div className="absolute inset-0 hero-grid opacity-20" />
-                <div className="relative z-10 text-center px-8">
+              <div className="aspect-[4/5] rounded-3xl relative overflow-hidden">
                   <img
                         src="/founder.jpeg"
                         alt="Rubani Hub Founder"
