@@ -116,7 +116,7 @@ export default function AboutClient() {
               </div>
               <div className="absolute -bottom-4 -left-4 bg-brand-navy text-white rounded-2xl p-4 shadow-2xl border border-white/10">
                 <div className="font-montserrat font-black text-xl text-brand-green">
-                  Licensed PPL, CPL, Malti-Engine
+                  Licensed PPL  &amp; CPL
                 </div>
                 <div className="font-inter text-xs text-white/60">
                   Commercial Pilot &amp; Educator
