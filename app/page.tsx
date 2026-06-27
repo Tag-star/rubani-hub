@@ -30,7 +30,7 @@ const services = [
     icon: MdSchool,
     title: "PPL Ground School",
     description:
-      "Comprehensive Private Pilot Licence ground school training that covers aviation theory, meteorology, navigation, and air law — fully aligned with KCAA standards.",
+      "Comprehensive Private Pilot Licence ground school training that covers aviation theory, meteorology, navigation, and air law fully aligned with KCAA standards.",
     slug: "ppl-ground-school",
   },
   {
@@ -65,14 +65,14 @@ const services = [
     icon: MdPerson,
     title: "1-on-1 Pilot Mentorship",
     description:
-      "Personalised mentorship from licensed commercial pilots who guide you through your aviation journey — from course selection to career placement.",
+      "Personalised mentorship from licensed commercial pilots who guide you through your aviation journey from course selection to career placement.",
     slug: "mentorship",
   },
   {
     icon: MdWork,
     title: "Career Guidance",
     description:
-      "Structured career advisory for aviation students — covering airline applications, type rating pathways, interview preparation, and CV building.",
+      "Structured career advisory for aviation students covering airline applications, type rating pathways, interview preparation, and CV building.",
     slug: "career-guidance",
   },
   {
