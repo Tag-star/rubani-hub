@@ -113,13 +113,13 @@ export default function Footer() {
               <li className="flex items-start gap-3">
                 <MdEmail className="text-brand-green text-lg mt-0.5 flex-shrink-0" />
                 <a href="mailto:rubanihub254@gmail.com" className="font-inter text-white/60 hover:text-white text-sm transition-colors duration-200">
-                  rubanihub254@gmail.com
+                  rubanihub@gmail.com
                 </a>
               </li>
               <li className="flex items-start gap-3">
                 <MdPhone className="text-brand-green text-lg mt-0.5 flex-shrink-0" />
-                <a href="tel:+254704832506" className="font-inter text-white/60 hover:text-white text-sm transition-colors duration-200">
-                  +254 704 832 506
+                <a href="tel:+254724852457" className="font-inter text-white/60 hover:text-white text-sm transition-colors duration-200">
+                  +254 724 852 457
                 </a>
               </li>
               <li className="flex items-start gap-3">
@@ -130,7 +130,7 @@ export default function Footer() {
               </li>
             </ul>
             <Link
-              href="https://wa.me/254704832506"
+              href="https://wa.me/254724852457"
               target="_blank"
               rel="noopener noreferrer"
               className="mt-6 inline-flex items-center gap-2 bg-brand-green hover:bg-green-600 text-white font-montserrat font-semibold text-sm px-4 py-2.5 rounded-lg transition-all duration-300"
