@@ -287,7 +287,7 @@ export default function HomePage() {
             </h2>
             <p className="font-inter text-gray-500 text-base mt-3 max-w-xl mx-auto">
               We combine expert instruction, African aviation insight, and
-              personalised support to ensure you don't just learn — you thrive.
+              personalised support to ensure you don't just learn, you thrive.
             </p>
           </motion.div>
 
@@ -333,7 +333,7 @@ export default function HomePage() {
               Our Courses & Services
             </h2>
             <p className="font-inter text-gray-500 text-base mt-3 max-w-xl mx-auto">
-              From ground school to career placement — everything an aspiring
+              From ground school to career placement everything an aspiring
               African pilot needs, in one place.
             </p>
           </motion.div>
@@ -464,8 +464,8 @@ export default function HomePage() {
                 Rubani Hub was founded by a licensed commercial pilot with a
                 singular mission: to make aviation accessible to every African
                 who dreams of the skies. Having navigated the complex,
-                expensive, and often lonely path to becoming a commercial pilot,
-                our founder understood what was missing — structured mentorship,
+                expensive and often lonely path to becoming a commercial pilot,
+                our founder understood what was missing structured mentorship,
                 clear guidance, and a community that believed in you.
               </p>
               <p className="font-inter text-gray-600 text-base leading-relaxed mb-8">
@@ -517,7 +517,7 @@ export default function HomePage() {
               <span className="text-brand-green">Aviation Journey?</span>
             </h2>
             <p className="font-inter text-white/60 text-base max-w-xl mx-auto mb-10">
-              Whether you're just curious or ready to commit — talk to us today.
+              Whether you're just curious or ready to commit; talk to us today.
               Our advisors will map out the fastest, most affordable route to
               your pilot licence.
             </p>
