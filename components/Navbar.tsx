@@ -47,7 +47,7 @@ export default function Navbar() {
 
             {/* Logo */}
             <Link href="/" className="flex items-center group">
-              <div className={`relative transition-all duration-300 ${scrolled ? "h-12 w-28" : "h-14 w-32"}`}>
+              <div className={`relative transition-all duration-300 ${scrolled ? "h-28 w-48" : "h-24 w-42"}`}>
                 <Image
                   src="/logo.jpeg"
                   alt="Rubani Hub — Aviation Training Kenya"
