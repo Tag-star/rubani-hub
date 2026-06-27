@@ -116,7 +116,7 @@ export default function AboutClient() {
                 <div className="absolute inset-0 hero-grid opacity-20" />
                 <div className="relative z-10 text-center px-8">
                   <img
-                        src="/founder.jpeg"
+                        src="/founder.jpg"
                         alt="Rubani Hub Founder"
                         style={{ width:"100%", height:"100%", objectFit:"cover" }}
                       />
