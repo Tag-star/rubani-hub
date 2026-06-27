@@ -84,7 +84,7 @@ function ContactForm() {
         </p>
         <div className="flex flex-col sm:flex-row gap-3 justify-center">
           <Link
-            href="https://wa.me/254704832506"
+            href="https://wa.me/254724852457"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 bg-brand-green hover:bg-green-600 text-white font-montserrat font-semibold text-sm px-6 py-3 rounded-xl transition-all duration-300"
@@ -287,15 +287,15 @@ export default function ContactClient() {
                     {
                       icon: MdEmail,
                       label: "Email Us",
-                      value: "rubanihub254@gmail.com",
-                      href: "mailto:rubanihub254@gmail.com",
+                      value: "rubanihub@gmail.com",
+                      href: "mailto:rubanihub@gmail.com",
                       color: "bg-brand-blue/10 text-brand-blue",
                     },
                     {
                       icon: MdPhone,
                       label: "Call / WhatsApp",
-                      value: "+254 704 832 506",
-                      href: "tel:+254704832506",
+                      value: "+254 724 852 457",
+                      href: "tel:+254724852457",
                       color: "bg-brand-green/10 text-brand-green",
                     },
                     {
@@ -336,7 +336,7 @@ export default function ContactClient() {
 
                 {/* WhatsApp CTA */}
                 <Link
-                  href="https://wa.me/254704832506?text=Hello%20Rubani%20Hub%2C%20I%27d%20like%20to%20enquire%20about%20your%20aviation%20courses."
+                  href="https://wa.me/254724852457?text=Hello%20Rubani%20Hub%2C%20I%27d%20like%20to%20enquire%20about%20your%20aviation%20courses."
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-3 bg-brand-green hover:bg-green-600 text-white rounded-2xl p-5 transition-all duration-300 hover:shadow-xl hover:shadow-green-900/20 group"
