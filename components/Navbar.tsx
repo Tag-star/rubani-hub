@@ -150,7 +150,7 @@ export default function Navbar() {
               </Link>
             </motion.div>
             <div className="mt-auto mb-10 text-white/40 font-inter text-sm">
-              rubanihub254@gmail.com · +254 704 832 506
+              rubanihub@gmail.com · +254 724 852 457
             </div>
           </motion.div>
         )}
