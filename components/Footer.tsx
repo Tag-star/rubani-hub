@@ -45,7 +45,7 @@ export default function Footer() {
             </p>
             <div className="flex gap-3">
               {[
-                { icon: <FaFacebookF />, href: "https://facebook.com", label: "Facebook" },
+                { icon: <FaFacebookF />, href: "https://www.facebook.com/profile.php?id=61591331616531", label: "Facebook" },
                 { icon: <FaInstagram />, href: "https://instagram.com/rubanihub", label: "Instagram" },
                 { icon: <FaYoutube />, href: "https://youtube.com", label: "YouTube" },
                 { icon: <FaLinkedinIn />, href: "https://linkedin.com", label: "LinkedIn" },
