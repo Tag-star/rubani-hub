@@ -89,7 +89,7 @@ export default function Navbar() {
             {/* Mobile Toggle */}
             <button
               onClick={() => setMobileOpen(!mobileOpen)}
-              className="md:hidden text-white p-2 rounded-lg hover:bg-white/10 transition-colors"
+              className="md:hidden text-yellow-600 p-2 rounded-lg hover:bg-yellow-50 transition-colors"
               aria-label="Toggle menu"
             >
               {mobileOpen ? <FiX size={24} /> : <FiMenu size={24} />}
