@@ -314,7 +314,7 @@ export default function CoursesClient() {
                       Get Details
                     </Link>
                     <Link
-                      href="https://wa.me/254704832506"
+                      href="https://wa.me/254724852457"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="flex items-center gap-2 bg-brand-green hover:bg-green-600 text-white font-inter text-sm px-4 py-3 rounded-xl transition-all duration-300"
@@ -347,7 +347,7 @@ export default function CoursesClient() {
               licence.
             </p>
             <Link
-              href="https://wa.me/254704832506"
+              href="https://wa.me/254724852457"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-3 bg-brand-green hover:bg-green-600 text-white font-montserrat font-bold text-sm px-10 py-4 rounded-xl transition-all duration-300 hover:shadow-xl hover:shadow-green-900/30"
