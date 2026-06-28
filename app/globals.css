@@ -101,7 +101,7 @@ h1, h2, h3, h4, h5, h6 {
   left: 0;
   width: 0;
   height: 2px;
-  background: #4CAF50;
+  background: #C9A84C;
   transition: width 0.3s ease;
 }
 .nav-link:hover::after,
