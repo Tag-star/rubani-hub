@@ -8,17 +8,17 @@ const config: Config = {
   ],
   theme: {
     extend: {
-            colors: {
-        brand: {
-          blue: "#B8860B",
-          green: "#FFD700",
-          white: "#FFFFFF",
-          navy: "#0A0A0A",
-          grey: "#1A1A1A",
-          "blue-light": "#DAA520",
-          "navy-mid": "#111111",
-        },
-      },
+                        colors: {
+              brand: {
+                blue: "#C9A84C",
+                green: "#C9A84C",
+                white: "#FFFFFF",
+                navy: "#111111",
+                grey: "#F9F9F9",
+                "blue-light": "#E0B95E",
+                "navy-mid": "#222222",
+              },
+            },
       fontFamily: {
         montserrat: ["Montserrat", "sans-serif"],
         inter: ["Inter", "sans-serif"],
