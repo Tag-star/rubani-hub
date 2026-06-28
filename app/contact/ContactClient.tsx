@@ -301,7 +301,7 @@ export default function ContactClient() {
                     {
                       icon: MdLocationOn,
                       label: "Based In",
-                      value: "Nairobi, Kenya",
+                      value: "Wilson Airport, Nairobi, Kenya",
                       href: null,
                       color: "bg-amber-100 text-amber-600",
                     },
