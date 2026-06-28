@@ -66,10 +66,10 @@ export default function Navbar() {
                   key={link.href}
                   href={link.href}
                   className={`nav-link font-inter text-sm font-medium tracking-wide transition-colors duration-200 ${
-                    pathname === link.href
-                      ? "text-brand-green active"
-                      : "text-white/80 hover:text-white"
-                  }`}
+                  pathname === link.href
+                    ? "text-yellow-600 active"
+                    : "text-gray-900 hover:text-yellow-600"
+                }`}
                 >
                   {link.label}
                 </Link>
