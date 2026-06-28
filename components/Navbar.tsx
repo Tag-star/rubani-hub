@@ -106,7 +106,7 @@ export default function Navbar() {
             animate={{ opacity: 1, y: 0 }}
             exit={{ opacity: 0, y: -20 }}
             transition={{ duration: 0.3 }}
-            className="fixed top-0 left-0 right-0 bottom-0 z-40 bg-brand-navy flex flex-col pt-32 px-6"
+            className="fixed top-0 left-0 right-0 bottom-0 z-40 bg-brand-navy flex flex-col pt-18 px-6"
           >
             {/* Mobile logo */}
             <div className="absolute top-4 left-4">
