@@ -37,10 +37,10 @@ h1, h2, h3, h4, h5, h6 {
   width: 6px;
 }
 ::-webkit-scrollbar-track {
-  background: #0D1B4B;
+  background: #0A0A0A;
 }
 ::-webkit-scrollbar-thumb {
-  background: #1A3C8F;
+  background: #B8860B;
   border-radius: 3px;
 }
 
