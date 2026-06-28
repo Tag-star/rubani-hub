@@ -216,7 +216,7 @@ export default function HomePage() {
               Explore Courses
             </Link>
             <Link
-              href="https://wa.me/254704832506?text=Hello%20Rubani%20Hub%2C%20I%27d%20like%20to%20learn%20more."
+              href="https://wa.me/254724852457?text=Hello%20Rubani%20Hub%2C%20I%27d%20like%20to%20learn%20more."
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center gap-2 bg-brand-green hover:bg-green-600 text-white font-montserrat font-bold text-sm px-8 py-4 rounded-xl transition-all duration-300 hover:shadow-2xl hover:shadow-green-900/30 tracking-wide w-full sm:w-auto"
@@ -520,7 +520,7 @@ export default function HomePage() {
                 Enroll Now
               </Link>
               <Link
-                href="https://wa.me/254704832506"
+                href="https://wa.me/254724852457"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center justify-center gap-2 border-2 border-white/20 hover:border-brand-green text-white hover:text-brand-green font-montserrat font-bold text-sm px-10 py-4 rounded-xl transition-all duration-300 tracking-wide w-full sm:w-auto"
