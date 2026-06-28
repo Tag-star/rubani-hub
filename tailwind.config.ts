@@ -8,15 +8,15 @@ const config: Config = {
   ],
   theme: {
     extend: {
-      colors: {
+            colors: {
         brand: {
-          blue: "#1A3C8F",
-          green: "#4CAF50",
+          blue: "#B8860B",
+          green: "#FFD700",
           white: "#FFFFFF",
-          navy: "#0D1B4B",
-          grey: "#F5F7FA",
-          "blue-light": "#2a52b8",
-          "navy-mid": "#152260",
+          navy: "#0A0A0A",
+          grey: "#1A1A1A",
+          "blue-light": "#DAA520",
+          "navy-mid": "#111111",
         },
       },
       fontFamily: {
