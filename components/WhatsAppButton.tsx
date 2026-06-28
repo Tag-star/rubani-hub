@@ -12,7 +12,7 @@ export default function WhatsAppButton() {
       className="fixed bottom-6 right-6 z-50"
     >
       <a
-        href="https://wa.me/254704832506?text=Hello%20Rubani%20Hub%2C%20I%27d%20like%20to%20know%20more%20about%20your%20aviation%20courses."
+        href="https://wa.me/254724852457?text=Hello%20Rubani%20Hub%2C%20I%27d%20like%20to%20know%20more%20about%20your%20aviation%20courses."
         target="_blank"
         rel="noopener noreferrer"
         aria-label="Chat with Rubani Hub on WhatsApp"
