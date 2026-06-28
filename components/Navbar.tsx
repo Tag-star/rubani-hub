@@ -50,9 +50,9 @@ export default function Navbar() {
                 src="/logo.jpeg"
                 alt="Rubani Hub — Aviation Training Kenya"
                 style={{
-                  height: scrolled ? "64px" : "90px",
+                  height: scrolled ? "70px" : "90px",
                   width: "auto",
-                  maxWidth: "220px",
+                  maxWidth: "240px",
                   objectFit: "contain",
                   transition: "height 0.3s ease",
                 }}
