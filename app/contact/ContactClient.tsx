@@ -55,15 +55,18 @@ function ContactForm() {
     setForm((prev) => ({ ...prev, [e.target.name]: e.target.value }));
   };
 
-  const handleSubmit = async (e: React.FormEvent) => {
-    e.preventDefault();
-    setLoading(true);
-    // Simulate async submission
-    await new Promise((res) => setTimeout(res, 1200));
-    setLoading(false);
-    setSubmitted(true);
-  };
-
+          const handleSubmit = async (e: React.FormEvent) => {
+          e.preventDefault();
+          setLoading(true);
+          await fetch("https://formspree.io/f/xdarzlkj", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify(form),
+          });
+          setLoading(false);
+          setSubmitted(true);
+        };
+ 
   if (submitted) {
     return (
       <motion.div
