@@ -149,7 +149,7 @@ export default function TestimonialsClient() {
                 Enroll Now
               </Link>
               <Link
-                href="https://wa.me/254704832506"
+                href="https://wa.me/254724852457"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center justify-center gap-2 bg-brand-green hover:bg-green-600 text-white font-montserrat font-bold text-sm px-9 py-4 rounded-xl transition-all duration-300"
