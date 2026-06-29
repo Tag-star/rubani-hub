@@ -109,7 +109,7 @@ export default function AboutClient() {
             >
               <div className="aspect-[4/5] rounded-3xl overflow-hidden">
                 <img
-                  src="/founder.jpeg"
+                  src="/profile2.jpeg"
                   alt="Rubani Hub Founder"
                   style={{ width: "100%", height: "100%", objectFit: "cover", display: "block" }}
                 />
