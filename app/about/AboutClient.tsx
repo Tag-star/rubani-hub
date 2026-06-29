@@ -111,7 +111,7 @@ export default function AboutClient() {
                 <img
                   src="/profile2.jpeg"
                   alt="Rubani Hub Founder"
-                  style={{ width: "auto", height: "100%", objectFit: "contain", display: "block" }}
+                  style={{ width: "auto", height: "90%", objectFit: "contain", display: "block" }}
                 />
               </div>
               <div className="absolute -bottom-4 -left-4 bg-brand-navy text-white rounded-2xl p-4 shadow-2xl border border-white/10">
