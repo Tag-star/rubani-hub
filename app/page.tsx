@@ -426,7 +426,7 @@ export default function HomePage() {
                 <img
                   src="/profile1.jpeg"
                   alt="Rubani Hub Founder"
-                  style={{ width: "auto", height: "100%", objectFit: "contain", display: "block" }}
+                  style={{ width: "auto", height: "90%", objectFit: "contain", display: "block" }}
                 />
               </div>
               {/* Floating badge */}
