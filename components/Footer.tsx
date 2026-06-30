@@ -47,8 +47,8 @@ export default function Footer() {
               {[
                 { icon: <FaFacebookF />, href: "https://www.facebook.com/profile.php?id=61591331616531", label: "Facebook" },
                 { icon: <FaInstagram />, href: "https://instagram.com/rubanihub", label: "Instagram" },
+                { icon: <FaLinkedinIn />, href: "https://linkedin.com/in/rubani-hub-96422b41a", label: "LinkedIn" },
                 { icon: <FaYoutube />, href: "https://youtube.com", label: "YouTube" },
-                { icon: <FaLinkedinIn />, href: "https://linkedin.com", label: "LinkedIn" },
               ].map((s) => (
                 <a
                   key={s.label}
